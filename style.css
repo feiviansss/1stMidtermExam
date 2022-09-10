@@ -1,0 +1,97 @@
+
+body {
+    background-color: white;
+    width: 1440px;
+}
+
+p{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #9fabb2;
+    font-weight: 400, 600;
+    text-align: center;
+}
+
+.p1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #9fabb2;
+    font-weight: 400, 600;
+    text-align: justify;
+}
+
+.p2{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #4c545d;
+    font-weight: 400, 600;
+    text-align: justify;
+}
+
+
+h1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #4c545d;
+    font-weight: 400, 600;
+    text-align: center;
+}
+
+
+h3{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 21px;
+    color: #4c545d;
+    font-weight: 400, 600;
+    text-align: left;
+}
+
+h4{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 14px;
+    color: #9fabb2;
+    font-weight: 400, 600;
+    text-align: left;
+}
+
+.h3{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 21px;
+    color: #4c545d;
+    font-weight: 400, 600;
+    text-align: center;
+}
+
+button{
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    color: white;
+    position: relative;
+    border-radius: 60px;
+}
+
+.button1{
+    background-color: #26baa4;
+    right: 100px;
+}
+
+.button2{
+    background-color: #6173ff;
+    left: 100px;
+    bottom: 89px;
+}
+
+img{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
